@@ -1,0 +1,7 @@
+-   Codeigniter 4.0.4
+-   Laravel Mix
+    - Installation Basic
+    - Install AdminLTE
+-   AdminLTE 3
+    - Copy all file or folder adminlte to assets folder
+    - Slice Layouts
