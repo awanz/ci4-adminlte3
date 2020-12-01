@@ -3,6 +3,7 @@
  * ------------------
  * You should not use this file in production.
  * This file is for demo purposes only.
+ * Awan <http://awan.es>
  */
 (function ($) {
   'use strict'
