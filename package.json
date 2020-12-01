@@ -1,7 +1,7 @@
 {
   "name": "ci4-adminlte3",
   "version": "1.0.0",
-  "description": "## What is CodeIgniter?",
+  "description": "CodeIgniter4 integrated with AdminLTE 3 by awan",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -20,7 +20,7 @@
   "license": "ISC",
   "devDependencies": {
     "cross-env": "^7.0.2",
-    "laravel-mix": "^5.0.7"
+    "laravel-mix": "^5.0.9"
   },
   "dependencies": {
     "admin-lte": "^3.0.5"

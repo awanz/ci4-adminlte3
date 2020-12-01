@@ -1,9 +1,17 @@
 {
-	"name": "codeigniter4/appstarter",
+	"name": "awan/ci4-adminlte3",
 	"type": "project",
-	"description": "CodeIgniter4 starter app",
-	"homepage": "https://codeigniter.com",
+	"description": "CodeIgniter4 integrated with AdminLTE 3 by awan",
+	"homepage": "https://awan.es",
 	"license": "MIT",
+	"authors": [
+		{
+			"name": "Awan",
+			"email": "hermawan9815@gmail.com",
+			"homepage": "https://awan.es",
+			"role": "Developer"
+		}
+	],
 	"require": {
 		"php": ">=7.2",
 		"codeigniter4/framework": "^4"
@@ -25,8 +33,6 @@
 		"test": "phpunit"
 	},
 	"support": {
-		"forum": "http://forum.codeigniter.com/",
-		"source": "https://github.com/codeigniter4/CodeIgniter4",
-		"slack": "https://codeigniterchat.slack.com"
+		"source": "https://github.com/awanz/ci4-adminlte3"
 	}
 }
