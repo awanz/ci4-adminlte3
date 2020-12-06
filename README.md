@@ -51,7 +51,7 @@ and any database settings.
 <?= $this->endSection() ?>
 ```
 
-in controller or router, dont forget for insert variable *title*
+in controller or router, dont forget for insert variable **title**
 
 ``` bash
 $data['title'] = "Your Tittle";
@@ -59,7 +59,7 @@ $data['title'] = "Your Tittle";
 breadcrumb title
 
 ``` bash
-$data['breadcrumb_title'] = "Starter";
+$data['breadcrumb_title'] = "Breadcrumb Title";
 ```
 
 and breadcrumb content
@@ -71,14 +71,12 @@ $data['breadcrumb']  =  array(
                                 'link' => 'dashboard'
                             ),
                             array(
-                                'title' => 'Starter',
+                                'title' => 'Breadcrumb Title',
                                 'link' => null
                             )
                         );
 ```
-
-Copy `env` to `.env` and tailor for your app, specifically the baseURL
-and any database settings.
+if no have link url or want actived **link** set **null**
 
 ## Server Requirements
 
